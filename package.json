@@ -1,0 +1,20 @@
+{
+  "name": "PHP-Config",
+  "description": "A simple tool to help with PHP configuration",
+  "keywords": [
+    "php",
+    "configure"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zqueal/php-configure.git"
+  },
+  "author": {
+    "name": "Zach Q",
+    "email": "zach.queal@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "php": "~5.4"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "zqueal/phpconfigure",
+    "description": "Simple PHP configure library that adds a key => value relationship for configuration data callable via variables.",
+    "keywords": ["php", "configure"],
+    "homepage": "https://github.com/zQueal/php-configure.git",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zach Queal",
+            "email": "zach.queal@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    }
+}
